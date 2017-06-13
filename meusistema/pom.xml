@@ -3,6 +3,20 @@
   <groupId>br.univel.167652</groupId>
   <artifactId>meusistema</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<dependencies>
 
+		<dependency>
+			<groupId>net.sf.jasperreports</groupId>
+			<artifactId>jasperreports</artifactId>
+			<version>6.3.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.4.1208.jre7</version>
+		</dependency>
+
+	</dependencies>
 
 </project>
