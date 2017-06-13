@@ -22,9 +22,5 @@ public class Aluno {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
-	public static void main(String[] args) {
-		AlunoDAO ad = new AlunoDAO();
-		ad.getTodos();
-	}
 
 }
